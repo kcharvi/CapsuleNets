@@ -167,6 +167,8 @@ def show_images(original_imgs, reconstructed_imgs):
     plt.show()
 ```
 
+![alt text](image-3.png)
+
 ## Usage Guide
 
 ### Prerequisites
